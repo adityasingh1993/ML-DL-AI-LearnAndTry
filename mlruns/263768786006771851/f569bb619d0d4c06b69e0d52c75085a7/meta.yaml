@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/263768786006771851/f569bb619d0d4c06b69e0d52c75085a7/artifacts
+end_time: 1730603452776
+entry_point_name: ''
+experiment_id: '263768786006771851'
+lifecycle_stage: active
+run_id: f569bb619d0d4c06b69e0d52c75085a7
+run_name: gentle-toad-617
+run_uuid: f569bb619d0d4c06b69e0d52c75085a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730603356174
+status: 4
+tags: []
+user_id: sig9moid

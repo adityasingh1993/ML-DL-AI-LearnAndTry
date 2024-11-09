@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/263768786006771851/d2778d0ba41a4b84a06e4ab198910e3d/artifacts
+end_time: 1730602492178
+entry_point_name: ''
+experiment_id: '263768786006771851'
+lifecycle_stage: active
+run_id: d2778d0ba41a4b84a06e4ab198910e3d
+run_name: fun-cub-623
+run_uuid: d2778d0ba41a4b84a06e4ab198910e3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730602369363
+status: 4
+tags: []
+user_id: sig9moid

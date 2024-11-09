@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/263768786006771851/f3e858cdd7694351ac948e3907c521bb/artifacts
+end_time: 1730604331755
+entry_point_name: ''
+experiment_id: '263768786006771851'
+lifecycle_stage: active
+run_id: f3e858cdd7694351ac948e3907c521bb
+run_name: defiant-quail-259
+run_uuid: f3e858cdd7694351ac948e3907c521bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730604205803
+status: 4
+tags: []
+user_id: sig9moid

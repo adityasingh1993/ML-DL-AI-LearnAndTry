@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/263768786006771851/35578e72a32e446999fa9ec305a3e0c7/artifacts
+end_time: 1730602352815
+entry_point_name: ''
+experiment_id: '263768786006771851'
+lifecycle_stage: active
+run_id: 35578e72a32e446999fa9ec305a3e0c7
+run_name: bemused-auk-81
+run_uuid: 35578e72a32e446999fa9ec305a3e0c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730602352668
+status: 4
+tags: []
+user_id: sig9moid

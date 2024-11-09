@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/263768786006771851/3055e508019a4bb6b6283b05a3837d7f/artifacts
+end_time: 1730571259456
+entry_point_name: ''
+experiment_id: '263768786006771851'
+lifecycle_stage: active
+run_id: 3055e508019a4bb6b6283b05a3837d7f
+run_name: orderly-jay-544
+run_uuid: 3055e508019a4bb6b6283b05a3837d7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730569403642
+status: 3
+tags: []
+user_id: sig9moid

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/263768786006771851/6455ba2da252463186aea928aff56bca/artifacts
+end_time: 1730608165360
+entry_point_name: ''
+experiment_id: '263768786006771851'
+lifecycle_stage: active
+run_id: 6455ba2da252463186aea928aff56bca
+run_name: salty-finch-48
+run_uuid: 6455ba2da252463186aea928aff56bca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730605080374
+status: 3
+tags: []
+user_id: sig9moid
